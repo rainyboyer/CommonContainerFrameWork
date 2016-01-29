@@ -1,14 +1,14 @@
 
 Pod::Spec.new do |s|
   s.name         = "CommonContainerFrameWork"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "CommonContainerFrameWork"
   s.homepage     = "http://42.120.16.240/beeto/"
   s.license      = "MIT"
   s.author       = { "Pengjuhua" => "pengjunhua2005@21cn.com" }
 
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/rainyboyer/CommonContainerFrameWork.git", :tag => '1.0.2' }
+  s.source       = { :git => "https://github.com/rainyboyer/CommonContainerFrameWork.git", :tag => '1.0.3' }
                                      
   s.source_files  =  "CommonContainerFrameWork.framework/Headers/*.h"
   #s.public_header_files = 'aaaLibrary/**/*.h'
