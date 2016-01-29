@@ -12,13 +12,13 @@ Pod::Spec.new do |s|
                                      
   s.source_files  =  "CommonContainerFrameWork.framework/Headers/*.h"
   s.public_header_files = "CommonContainerFrameWork.framework/Headers/*.h"
-  #s.resource_bundles = {
-   # 'aaaLibrary' => ['aaaLibrary/*']
-  #}                                       
+  s.resource_bundles = {
+   'CommonContainerFrameWork' => ['CommonContainerFrameWork.framework/Headers/*.h']
+  }                                       
 
   #s.resources = "Resources/*.png"
 
-  s.frameworks = "CommonContainerFrameWork"
+  s.framework = "CommonContainerFrameWork"
   #s.libraries = "iconv", "z","stdc++","sqlite3"
   s.requires_arc = true
 
