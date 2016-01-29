@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		x6SKkmgDm4gmauEODxmZIhxuNQ4=
+		7oXgdapTGRh365cIP6Sa4e9X3Bg=
 		</data>
 		<key>CCProgress.bundle/angle-mask.png</key>
 		<data>
@@ -60,29 +60,9 @@
 		<data>
 		Y/IvTl9o8Y4sbqWpGoEAxTsXRdo=
 		</data>
-		<key>Headers/CCContentMenuPageHandler.h</key>
-		<data>
-		ZXXKbPPTABdFg7oACO7ugpC59Xo=
-		</data>
-		<key>Headers/CCContentNativePageHandler.h</key>
-		<data>
-		TsBCQ4FGJPVKFrIM1yrg4ZDpLbY=
-		</data>
-		<key>Headers/CCContentWebPageHandler.h</key>
-		<data>
-		/d0D2fr94IhpGLx06LO+7w/Vv2c=
-		</data>
 		<key>Headers/CCLaunchOperation.h</key>
 		<data>
 		QGU5iavXcx+qeu3mEoUEBI8dF4A=
-		</data>
-		<key>Headers/CCMainNativePageHandler.h</key>
-		<data>
-		McNE9r5JmJBIFVLqS524BGxb/BA=
-		</data>
-		<key>Headers/CCMainWebPageHandler.h</key>
-		<data>
-		ZO1M6CpVujLnS0y0IlnEwnnUCD0=
 		</data>
 		<key>Headers/CCUriActionHandlerProtocol.h</key>
 		<data>
@@ -113,7 +93,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		x6SKkmgDm4gmauEODxmZIhxuNQ4=
+		7oXgdapTGRh365cIP6Sa4e9X3Bg=
 		</data>
 		<key>CCProgress.bundle/angle-mask.png</key>
 		<data>
@@ -167,29 +147,9 @@
 		<data>
 		Y/IvTl9o8Y4sbqWpGoEAxTsXRdo=
 		</data>
-		<key>Headers/CCContentMenuPageHandler.h</key>
-		<data>
-		ZXXKbPPTABdFg7oACO7ugpC59Xo=
-		</data>
-		<key>Headers/CCContentNativePageHandler.h</key>
-		<data>
-		TsBCQ4FGJPVKFrIM1yrg4ZDpLbY=
-		</data>
-		<key>Headers/CCContentWebPageHandler.h</key>
-		<data>
-		/d0D2fr94IhpGLx06LO+7w/Vv2c=
-		</data>
 		<key>Headers/CCLaunchOperation.h</key>
 		<data>
 		QGU5iavXcx+qeu3mEoUEBI8dF4A=
-		</data>
-		<key>Headers/CCMainNativePageHandler.h</key>
-		<data>
-		McNE9r5JmJBIFVLqS524BGxb/BA=
-		</data>
-		<key>Headers/CCMainWebPageHandler.h</key>
-		<data>
-		ZO1M6CpVujLnS0y0IlnEwnnUCD0=
 		</data>
 		<key>Headers/CCUriActionHandlerProtocol.h</key>
 		<data>
