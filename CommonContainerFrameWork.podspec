@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "CommonContainerFrameWork"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "CommonContainerFrameWork"
   s.homepage     = "http://42.120.16.240/beeto/"
   s.license      = "MIT"
