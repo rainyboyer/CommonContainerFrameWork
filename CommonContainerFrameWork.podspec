@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/rainyboyer/CommonContainerFrameWork.git", :tag => '1.0.8' }
                                      
   #s.source_files  = 'CommonContainerFrameWork.framework/Headers/*.h'
-  s.public_header_files = 'CommonContainerFrameWork.framework/Headers/*.h'                                     
+  s.public_header_files = 'CommonContainerFrameWork/Headers/*.h'                                     
 
   #s.resources = 'Resources/*.png'
 
