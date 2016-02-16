@@ -3,46 +3,4 @@ framework module CommonContainerFrameWork {
 
   export *
   module * { export * }
-  
-  explicit module CCContentMenuPageHandler
-  {
-      header "CCContentMenuPageHandler.h"
-      export *
-  }
-  
-  explicit module CCContentNativePageHandler
-  {
-      header "CCContentNativePageHandler.h"
-      export *
-  }
-  
-  explicit module CCMainNativePageHandler
-  {
-      header "CCMainNativePageHandler.h"
-      export *
-  }
-  
-  explicit module CCContentWebPageHandler
-  {
-      header "CCContentWebPageHandler.h"
-      export *
-  }
-  
-  explicit module CCMainWebPageHandler
-  {
-      header "CCMainWebPageHandler.h"
-      export *
-  }
-  
-  explicit module CCUriActionHandlerProtocol
-  {
-      header "CCUriActionHandlerProtocol.h"
-      export *
-  }
-  
-  explicit module CCLaunchOperation
-  {
-      header "CCLaunchOperation.h"
-      export *
-  }
 }
