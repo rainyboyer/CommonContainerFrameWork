@@ -14,4 +14,6 @@
  *  判断启动行为
  */
 + (void)launchOperation;
+
+- (void)logLaunch;
 @end
