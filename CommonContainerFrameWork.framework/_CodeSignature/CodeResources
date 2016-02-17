@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		daFr7fbah5i5QYqfbhCZzp01/WM=
+		HBRAw419GfJlGQ6W02Qc0QohQ8U=
 		</data>
 		<key>CCProgress.bundle/angle-mask.png</key>
 		<data>
@@ -60,9 +60,17 @@
 		<data>
 		Y/IvTl9o8Y4sbqWpGoEAxTsXRdo=
 		</data>
+		<key>Headers/CCLaunchOperation.h</key>
+		<data>
+		Hva+Vxe78SLPWOwFObNYFFNQHuA=
+		</data>
+		<key>Headers/CCUriActionHandlerProtocol.h</key>
+		<data>
+		7b68oTr4lsCfLFxGVUdoRiOHsh4=
+		</data>
 		<key>Headers/CommonContainerFrameWork.h</key>
 		<data>
-		hb/dxFq3R11UMjEYYjpITHNlHoI=
+		euOI6dRoSQbcts59ghmvR27lf9w=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -85,7 +93,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		daFr7fbah5i5QYqfbhCZzp01/WM=
+		HBRAw419GfJlGQ6W02Qc0QohQ8U=
 		</data>
 		<key>CCProgress.bundle/angle-mask.png</key>
 		<data>
@@ -139,9 +147,17 @@
 		<data>
 		Y/IvTl9o8Y4sbqWpGoEAxTsXRdo=
 		</data>
+		<key>Headers/CCLaunchOperation.h</key>
+		<data>
+		Hva+Vxe78SLPWOwFObNYFFNQHuA=
+		</data>
+		<key>Headers/CCUriActionHandlerProtocol.h</key>
+		<data>
+		7b68oTr4lsCfLFxGVUdoRiOHsh4=
+		</data>
 		<key>Headers/CommonContainerFrameWork.h</key>
 		<data>
-		hb/dxFq3R11UMjEYYjpITHNlHoI=
+		euOI6dRoSQbcts59ghmvR27lf9w=
 		</data>
 		<key>LICENSE</key>
 		<data>
