@@ -18,6 +18,6 @@ Pod::Spec.new do |s|
 
   #s.framework = 'CommonContainerFrameWork'
   s.vendored_frameworks = "CommonContainerFrameWork"
-  #s.libraries = "iconv", "z","stdc++","sqlite3"
+  s.libraries = "iconv", "z","stdc++","sqlite3"
   s.requires_arc = true
 end
