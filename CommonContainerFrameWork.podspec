@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '8.0'
   s.source       = { :git => "https://github.com/rainyboyer/CommonContainerFrameWork.git", :tag => s.version }
                                      
-  s.source_files  = '*'
+  s.source_files  = 'include/*.{h,a}'
 
   s.public_header_files = "include/*.h"
 
