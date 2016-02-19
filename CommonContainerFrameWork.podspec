@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |s|
-  s.name         = "CommonContainerLib"
+  s.name         = "CommonContainerFrameWork"
   s.version      = "1.1.7"
   s.summary      = "CommonContainerLib"
   s.homepage     = "https://github.com/rainyboyer/CommonContainerFrameWork"
