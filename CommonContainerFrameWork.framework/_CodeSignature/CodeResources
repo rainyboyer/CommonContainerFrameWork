@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		FIg5J4Yd3LmQY+FzhmE4HOAtDAA=
+		1tEJQ+uR+soMs4VRCLaTfVciaHA=
 		</data>
 		<key>CCProgress.bundle/angle-mask.png</key>
 		<data>
@@ -59,6 +59,14 @@
 		<key>CCWebViewJsBridge.js</key>
 		<data>
 		Y/IvTl9o8Y4sbqWpGoEAxTsXRdo=
+		</data>
+		<key>Headers/CCLaunchOperation.h</key>
+		<data>
+		mTSHtAmZ5v/ZiPhxoUyQ9d0vvIY=
+		</data>
+		<key>Headers/CCUriActionHandlerProtocol.h</key>
+		<data>
+		7b68oTr4lsCfLFxGVUdoRiOHsh4=
 		</data>
 		<key>Headers/CommonContainerFrameWork.h</key>
 		<data>
@@ -85,7 +93,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		FIg5J4Yd3LmQY+FzhmE4HOAtDAA=
+		1tEJQ+uR+soMs4VRCLaTfVciaHA=
 		</data>
 		<key>CCProgress.bundle/angle-mask.png</key>
 		<data>
@@ -138,6 +146,14 @@
 		<key>CCWebViewJsBridge.js</key>
 		<data>
 		Y/IvTl9o8Y4sbqWpGoEAxTsXRdo=
+		</data>
+		<key>Headers/CCLaunchOperation.h</key>
+		<data>
+		mTSHtAmZ5v/ZiPhxoUyQ9d0vvIY=
+		</data>
+		<key>Headers/CCUriActionHandlerProtocol.h</key>
+		<data>
+		7b68oTr4lsCfLFxGVUdoRiOHsh4=
 		</data>
 		<key>Headers/CommonContainerFrameWork.h</key>
 		<data>
