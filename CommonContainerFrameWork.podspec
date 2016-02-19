@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author       = { "Pengjunhua" => "pengjunhua2005@21cn.com" }
 
   s.platform     = :ios, '8.0'
-  s.source       = { :git => "https://github.com/rainyboyer/CommonContainerFrameWork.git", :tag => '1.2.7' }
+  s.source       = { :git => "https://github.com/rainyboyer/CommonContainerFrameWork.git", :tag => "1.2.7"}
                                      
   s.source_files  = 'CommonContainerFrameWork.framework/Headers/*.h'
 
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   #s.resources = 'Resources/*.png'
 
   #s.framework = 'CommonContainerFrameWork'
-  s.vendored_frameworks = 'CommonContainerFrameWork'
+  s.vendored_frameworks = "CommonContainerFrameWork"
   s.libraries = "iconv", "z","stdc++","sqlite3"
   s.requires_arc = true
 end
