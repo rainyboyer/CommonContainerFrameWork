@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "CommonContainerFrameWork"
-  s.version      = "2.0.4"
+  s.version      = "2.0.5"
   s.summary      = "CommonContainerFrameWork"
   s.homepage     = "https://github.com/rainyboyer/CommonContainerFrameWork"
   s.license      = 'MIT'
@@ -10,9 +10,9 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '8.0'
   s.source       = { :git => "https://github.com/rainyboyer/CommonContainerFrameWork.git", :tag => s.version}
                                      
-  s.source_files  = 'CommonContainerFrameWork.framework/Headers/*.h'
+  #s.source_files  = 'CommonContainerFrameWork.framework/Headers/*.h'
 
-  s.public_header_files = 'CommonContainerFrameWork.framework/Headers/*.h'
+  #s.public_header_files = 'CommonContainerFrameWork.framework/Headers/*.h'
 
   #s.resources = 'Resources/*.png'
 
