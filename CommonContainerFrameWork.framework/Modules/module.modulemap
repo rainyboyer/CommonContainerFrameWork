@@ -1,0 +1,6 @@
+framework module CommonContainerFrameWork {
+  umbrella header "CommonContainerFrameWork.h"
+
+  export *
+  module * { export * }
+}
