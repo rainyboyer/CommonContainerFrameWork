@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "CommonContainerFrameWork"
-  s.version      = "2.0.3"
+  s.version      = "2.0.4"
   s.summary      = "CommonContainerFrameWork"
   s.homepage     = "https://github.com/rainyboyer/CommonContainerFrameWork"
   s.license      = 'MIT'
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   #s.resources = 'Resources/*.png'
 
   #s.framework = 'CommonContainerFrameWork'
-  #s.ios.vendored_frameworks = 'CommonContainerFrameWork.framework'
+  s.ios.vendored_frameworks = 'CommonContainerFrameWork.framework'
   #s.libraries = "iconv", "z","stdc++","sqlite3"
   s.requires_arc = true
 end
