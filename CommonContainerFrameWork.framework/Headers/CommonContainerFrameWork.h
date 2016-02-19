@@ -7,8 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "CCLaunchOperation.h"
-#import "CCUriActionHandlerProtocol.h"
+#import <CommonContainerFrameWork/CCLaunchOperation.h>
+#import <CommonContainerFrameWork/CCUriActionHandlerProtocol.h>
 //! Project version number for CommonContainerFrameWork.
 FOUNDATION_EXPORT double CommonContainerFrameWorkVersionNumber;
 
