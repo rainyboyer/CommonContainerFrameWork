@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   #s.resources = 'Resources/*.png'
 
   #s.framework = 'CommonContainerFrameWork'
-  s.vendored_frameworks = "CommonContainerFrameWork"
+  s.ios.vendored_frameworks = 'CommonContainerFrameWork.framework'
   s.libraries = "iconv", "z","stdc++","sqlite3"
   s.requires_arc = true
 end
